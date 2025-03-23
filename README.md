@@ -26,4 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>         
           
+![GIF de saudação](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
