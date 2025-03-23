@@ -2,7 +2,8 @@
 
 **Bem vindo(a) ao meu perfil GitHub✨ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rayssamell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact)
+
 
 
 ## Ferramentas e Tecnologias
