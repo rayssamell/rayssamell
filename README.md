@@ -2,8 +2,13 @@
 
 **Bem vindo(a) ao meu perfil GitHub✨ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
+## 👨‍💻 Sobre mim
 
+- 💻 Possuo cusrso técnico de informática para internet
+- 🎓  Cursando o 3° semestre de Ciência da Computação - PUC MINAS
+
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
 
 
 ## Ferramentas e Tecnologias
@@ -25,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>         
-          
+
+### 🧠 Soft Skills
+- **Trabalho em equipe**: Experiência em colaborar com equipes multidisciplinares.
+- **Aprendizagem Contínua**: Compromisso constante em melhorar minhas habilidades e me manter atualizado com as novas tecnologias.
+
 
 
