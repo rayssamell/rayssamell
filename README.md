@@ -7,10 +7,6 @@
 - 💻 Possuo cusrso técnico de informática para internet
 - 🎓  Cursando o 3° semestre de Ciência da Computação - PUC MINAS
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
-
-
 ## Ferramentas e Tecnologias
 
 <p align="left">
@@ -22,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" style="display: inline-block;"/>
 </p>
 
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
                                                    
 ## Estou aprendendo
 
