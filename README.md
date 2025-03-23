@@ -1,7 +1,5 @@
-# Olá, me chamo Rayssa Mell ! 
-## Bem vindo(a) ao meu perfil GitHub 👋
+# Olá, me chamo Rayssa Mell ! Bem vindo(a) ao meu perfil GitHub 👋
 
-<!--
 **rayssamell/rayssamell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div>
@@ -24,4 +22,3 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  width="40" height="40"/>
 
 
--->
