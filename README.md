@@ -1,6 +1,6 @@
 # Olá, me chamo Rayssa Mell ! 👋 
 
-**Bem vindo(a) ao meu perfil GitHub✨ 
+Bem vindo(a) ao meu perfil GitHub✨ 
 
 ## 👩‍💻 Sobre mim
 
