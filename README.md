@@ -6,6 +6,7 @@ Bem vindo(a) ao meu perfil GitHub✨
 
 - 💻 Possuo cusrso técnico de informática para internet
 - 🎓  Cursando o 3° semestre de Ciência da Computação - PUC MINAS
+- Desenvolvedora FullStack
 
 ## Ferramentas e Tecnologias
 
