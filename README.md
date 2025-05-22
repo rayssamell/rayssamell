@@ -18,6 +18,7 @@ Bem vindo(a) ao meu perfil GitHub✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" style="display: inline-block;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/>
 </p>
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
@@ -25,7 +26,6 @@ Bem vindo(a) ao meu perfil GitHub✨
 ## Estou aprendendo
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>         
 
