@@ -22,7 +22,7 @@ Bem vindo(a) ao meu perfil GitHub✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamell&layout=compact&theme=dark)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER-NAME&layout=compact&theme=dracula)   
                                                    
 ## Estou aprendendo
 
