@@ -20,9 +20,14 @@ Bem vindo(a) ao meu perfil GitHub✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
+
 </p>
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER-NAME&layout=compact&theme=dracula)   
+![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=rayssamell&layout=compact)
+
+
                                                    
 ## Estou aprendendo
 
