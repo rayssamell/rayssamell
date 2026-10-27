@@ -5,9 +5,9 @@ Bem vindo(a) ao meu perfil GitHub✨
 ## 👩‍💻 Sobre mim
 
 - 🎓 Cursando o 6° período de Ciência da Computação - PUC MINAS
-- 🔬 Pesquisadora em Dados e Machine Learning
+- 🔬 Pesquisadora de Dados e Machine Learning
 - 👩‍💻 Extensionista do Elas++
-- 💻 Cusrso técnico de informática para internet
+- 💻 Curso técnico de informática para internet
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/<seu-perfil>)
   
